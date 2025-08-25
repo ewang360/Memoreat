@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# food_journal
+# Memoreat
 
-A new Flutter project.
+Food journal app to remember every bite
 
 ## Getting Started
 
@@ -15,7 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# Memoreat
-Food journal app to remember every bite
->>>>>>> c578ed0b7ecdfb65bbcd66b85869b4d8f852d3de
