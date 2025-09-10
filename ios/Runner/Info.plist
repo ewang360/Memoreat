@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>This app requires access to your photo library to save and display food photos.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app uses the camera to allow you to take pictures of your meals.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This app needs the microphone for voice notes with your food entries.</string>
 </dict>
 </plist>
